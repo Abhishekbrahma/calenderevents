@@ -1,0 +1,10 @@
+---
+ref: calenderevents
+name: calender events
+description: get calender events.
+keywords:
+     - Api
+     - polling
+version: 0.1.0
+author: Abhishek Brahmachary test
+email: abhishek.brahmachhary@nihilent.com
