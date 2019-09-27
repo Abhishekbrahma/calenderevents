@@ -2,7 +2,7 @@ import sys
 from st2common.runners.base_action import Action
 import requests
 class MyAction(Action):
-    def run(self, a):
+    def run(self):
         query_parameters = {'$top': '10',
                       '$select': 'subject,start,end',
                       '$orderby': 'start/dateTime ASC'}
