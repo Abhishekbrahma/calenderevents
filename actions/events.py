@@ -9,7 +9,7 @@ import time
 class MyAction(Action):
     def run(self ):
         client_id = 'e1502f9c-87a4-4b8b-acf0-c41e1658624c'
-        client_secret = 'b2836da3-073e-44e9-be12-a8f9878f30af'
+        client_secret = 'vnr@D6/R[YYk[mEnm5w0eHc0yNAZGNdB'
         # Constant strings for OAuth2 flow
         # The OAuth authority
         authority = 'https://login.microsoftonline.com'
