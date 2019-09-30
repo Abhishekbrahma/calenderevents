@@ -1,7 +1,7 @@
 import sys
 from st2common.runners.base_action import Action
 import requests
-from from urllib.parse import urlparse
+from urllib.parse import urlparse
 from urlparse import quote, urlencode
 import base64
 import json
