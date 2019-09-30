@@ -1,0 +1,7 @@
+---
+name: Authentication
+pack: calenderevents
+runner_type: "python-script"
+description: authenticate api
+enabled: true
+entry_point: Authentication.py
