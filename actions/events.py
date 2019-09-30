@@ -5,7 +5,7 @@ import base64
 import json
 import time
 #from urllib.parse import quote, urlencode
-from urllib.parse import * parse_url
+from urllib.parse import *
 class MyAction(Action):
     def run(self ):
         parse_url = urlparse('https://www.geeksforgeeks.org / python-langtons-ant/') 
