@@ -9,7 +9,7 @@ class MyAction(Action):
 
         username = 'abhisheknihilent.outlook.com'
         password = 'M1cr0123'
-        authority = 'OtAGIIR.FzCR6G5N]ra.j@H5OWF7zN.R'
+        authority = 'https://login.microsoftonline.com'
         resource = ''
 
         clientId = 'e1502f9c-87a4-4b8b-acf0-c41e1658624c'

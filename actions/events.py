@@ -1,10 +1,11 @@
+from urllib.parse import *
 import sys
 from st2common.runners.base_action import Action
 import requests
 import base64
 import json
 import time
-from urllib.parse import *
+
 class MyAction(Action):
     def run(self ):
 
