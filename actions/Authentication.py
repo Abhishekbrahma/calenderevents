@@ -2,7 +2,7 @@ import getopt
 import sys
 import json
 import re
-from adal import AuthenticationContext
+
 from microsoftgraph.client import Client
 class MyAction(Action):
     def run(self ):
