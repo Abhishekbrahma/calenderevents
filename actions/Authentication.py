@@ -3,7 +3,7 @@ import sys
 import json
 import re
 
-from microsoftgraph.client import Client
+from microsoftgraph import Client
 class MyAction(Action):
     def run(self ):
 
