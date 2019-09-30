@@ -9,7 +9,7 @@ from urllib.parse import quote, urlencode
 class MyAction(Action):
     def run(self ):
         client_id = 'e1502f9c-87a4-4b8b-acf0-c41e1658624c'
-        client_secret = 'YOUR APP PASSWORD HERE'
+        client_secret = 'OtAGIIR.FzCR6G5N]ra.j@H5OWF7zN.R'
         # Constant strings for OAuth2 flow
         # The OAuth authority
         authority = 'https://login.microsoftonline.com'
