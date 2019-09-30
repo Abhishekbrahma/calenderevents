@@ -4,7 +4,7 @@ import requests
 import base64
 import json
 import time
-import urllib3.parse
+from urllib.parse import *
 class MyAction(Action):
     def run(self ):
 
